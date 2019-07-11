@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LasalleUser</string>
+    <string name="get_all_user">Get All User</string>
+</resources>
